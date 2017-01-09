@@ -1,0 +1,29 @@
+.business-header {
+    height: 400px;
+    background: url(../images/farm.jpg) center center no-repeat scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    margin-top: -20px;
+}
+
+.tagline {
+    text-shadow: 0 0 10px #000;
+    color: #fff;
+}
+
+/*img.resize {
+    max-width: 30%;
+    max-height: 30%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}*/
+
+.myImage {
+    float: left;
+}
+
+.myText {
+    font-size: 20px !important
+}

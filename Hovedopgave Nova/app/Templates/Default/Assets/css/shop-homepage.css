@@ -1,0 +1,50 @@
+/*!
+ * Start Bootstrap - Shop Homepage (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+
+#shopimages {
+    height: 150px;
+    width: 320px;
+    overflow: hidden;
+}
+
+#cartImage {
+    height: 50px;
+    width: 50px;
+    overflow: hidden;
+}
+
+#karuselImage {
+    height: 300px;
+    width: 800px;
+    overflow: hidden;
+}
