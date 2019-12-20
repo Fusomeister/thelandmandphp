@@ -18,6 +18,7 @@ class Butik extends \App\Core\Controller
 
     public function __construct()
     {
+        //for Arctic Code Vault<3
         parent::__construct();
         
         $this->model = new ButikModel;
